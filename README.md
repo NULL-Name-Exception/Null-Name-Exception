@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=XJOHmgFQXaY&feature=youtu.be
 #### Courier Accept Order  
 ![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/place_order.gif)
 
-#### Shorest Path Identification with Multiple Target Place
+#### Shorest Path Identification with Multiple Target Places
 ![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/path_identification.gif)
 
 #### Courier Moving on the Map
