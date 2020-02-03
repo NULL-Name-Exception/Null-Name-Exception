@@ -10,8 +10,11 @@ https://www.youtube.com/watch?v=XJOHmgFQXaY&feature=youtu.be
 
 ## Main Function Demo
 ### Functions in Courier Mode
-#### Courier Accept Order & Shortest Path Identification Between starting Point and Destination
+#### Courier Accept Order  
 ![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/place_order.gif)
+
+#### Shorest Path Identification with Multiple Target Place
+![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/path_identification.gif)
 
 #### Courier Moving on the Map
 ![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/courier_map_gif.gif)
