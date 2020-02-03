@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=XJOHmgFQXaY&feature=youtu.be
 
 #### Customer Receive Notification 
 ![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/nitification_gif.gif)
+
+### Other Functions
+#### FaceBook Log in
+![Alt Text](https://github.com/NULL-Name-Exception/Null-Name-Exception/blob/master/gif_source/fb_login.gif)
